@@ -1,2 +1,2 @@
 # StrataScratch_SQL
-StrataScratch SQL practice problems
+StrataScratch MySQL practice problems
